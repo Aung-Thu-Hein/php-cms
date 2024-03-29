@@ -1,0 +1,23 @@
+Core/
+	Middleware/
+	Database
+	Response
+	Router
+	Session
+	Validator
+	functions
+Http/
+	Controllers/
+	Forms/
+	Services/
+	Models/
+Views/
+	Admin/
+	Front/
+public/
+	assets/
+	index
+
+config
+routes
+README.md
