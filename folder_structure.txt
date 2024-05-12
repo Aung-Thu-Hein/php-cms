@@ -1,4 +1,4 @@
-Core/
+/Core/
 	Middleware/
 	Database
 	Response
@@ -6,18 +6,16 @@ Core/
 	Session
 	Validator
 	functions
-Http/
+/Http/
 	Controllers/
 	Forms/
 	Services/
 	Models/
-Views/
-	Admin/
-	Front/
+/views/
 public/
 	assets/
 	index
 
-config
-routes
+/config
+/routes
 README.md
